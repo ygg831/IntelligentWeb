@@ -1,0 +1,19 @@
+{
+  "openapi": "3.0.2",
+  "info": {
+    "title": "Agent ChatRoom",
+    "version": "1.0",
+    "description": "User management API",
+    "contact": {
+      "name": "YU QIU",
+      "email": "yqiu9@sheffield.ac.uk"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://api.server.test/v1"
+    }
+  ],
+  "paths": {
+  }
+}
